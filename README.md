@@ -1,2 +1,3 @@
-# Python-Example-Understanding-Modulus-
-A beginner-friendly Python project that demonstrates how to use modulus (%) to divide people into groups and find leftovers.
+Try changing the number of people and see how the result changes.
+💡 Can you think of other real-life situations where you can use this idea?
+Share your ideas and improve the code! 🚀
