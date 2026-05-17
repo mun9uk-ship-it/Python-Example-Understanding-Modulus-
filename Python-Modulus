@@ -1,1 +1,15 @@
+# Ask the user to enter number of people
+people = int(input("Enter number of people: "))
 
+# Ask the user to enter group size
+group_size = int(input("Enter group size: "))
+
+# Calculate full groups (no leftovers)
+groups = people // group_size   # how many complete groups we can make
+
+# Calculate remaining people
+waiting = people % group_size   # how many people are left over
+
+# Show results
+print("Full groups:", groups)
+print("People waiting:", waiting)
